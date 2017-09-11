@@ -1,0 +1,3 @@
+[submodule "node/node-xlib.py"]
+	path = node/node-xlib.py
+	url = https://github.com/gitfaf/node-xlib.py
