@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.0.2
+
+11 Sep 2017
+
+1. Updated js/[js-xlib.py@1.0.1](https://github.com/gitfaf/js-xlib.py)
+1. Updated Readme - version bump.
+
 ## Version 1.0.1
 
 11 Sep 2017
