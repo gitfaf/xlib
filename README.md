@@ -1,6 +1,8 @@
-# xlib
+# xlib v1.0.1
 
 Libraries and library functions from other languages ported to JS and node
+
+Read [Changelog](./Changelog.md) for version information.
 
 ## Development
 
@@ -9,6 +11,11 @@ Libraries and library functions from other languages ported to JS and node
     git clone --recursive git@github.com:gitfaf/xlib.git
 
 ```
+
+## Submodules
+
+node / https://github.com/gitfaf/node-xlib.py
+js / https://github.com/gitfaf/js-xlib.py
 
 ## What is this project
 

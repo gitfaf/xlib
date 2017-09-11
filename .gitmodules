@@ -1,3 +1,6 @@
 [submodule "node/node-xlib.py"]
 	path = node/node-xlib.py
 	url = https://github.com/gitfaf/node-xlib.py
+[submodule "js/js-xlib.py"]
+	path = js/js-xlib.py
+	url = https://github.com/gitfaf/js-xlib.py
